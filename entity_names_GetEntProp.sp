@@ -10,12 +10,12 @@ public Plugin:myinfo =
 }
 
 public OnPluginStart(){
-	RegAdminCmd("sm_ent", Cmd_Ent, ADMFLAG_CHAT, "Show entity value");
+	RegAdminCmd("sm_get", Cmd_Get, ADMFLAG_CHAT, "Show entity value");
 }
 
-public Action:Cmd_Ent(client, args){
+public Action:Cmd_Get(client, args){
 	if(args<1){
-		ReplyToCommand(client, "[SM] Usage: sm_ent <entity>");
+		ReplyToCommand(client, "[SM] Usage: sm_get <entity>");
 		return Plugin_Handled;
 	}
 	decl String:entityStr[512];
