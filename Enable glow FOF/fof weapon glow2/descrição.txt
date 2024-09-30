@@ -1,0 +1,2 @@
+Nessa segunda versão além de ativar o glow em armas que estão no chão sem efeito glow
+também é possível escolher a cor do glow (o glow dessa versão pode ser visto através da parede)

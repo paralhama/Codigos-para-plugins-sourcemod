@@ -1,0 +1,5 @@
+Nessa terceira versão é quase igual a versão 2
+é possível ativar o glow em armas que estão pelo mapa sem efeito glow e definir a cor do glow
+nessa versão uma correção foi adicionada para desativar o glow em  'prop_physics_respawnable'
+pois quando algum modelo com esse classname é destruido o efeito glow não era desativado
+nessa versão esse problema foi resolvido (mas ao ressurgir o prop_physics_respawnable aparecerá sem glow)

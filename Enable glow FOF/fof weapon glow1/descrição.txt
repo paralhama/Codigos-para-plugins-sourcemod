@@ -1,0 +1,2 @@
+Primeira versão onde só é possível ativar glow de armas que estão no chão
+(não é possível ver o glow dessa versão através da parede)
