@@ -376,8 +376,10 @@ public Action:Command_GetProperties(client, args)
 
 void SetWeaponGlowColor(target, int color)
 {
-	//color code mode
-	changevalue(4);
+	//color code mode mudando
+	// 4 para glow visível através das paredes e com possibilidade de alterar a cor do glow
+	// 5 para glow que não é visível através da parede e sempre na cor verde
+	changevalue(5);
 	
 	int ammocount, ammocountoffset = 0;
 	
