@@ -1,0 +1,2 @@
+Subistitui o modelo de mãos padrão por um modelo de garras infectada personalizado
+devido a um bug na animação após aplicar o modelo personalizado a velocidade de ataque foi reduzida 
