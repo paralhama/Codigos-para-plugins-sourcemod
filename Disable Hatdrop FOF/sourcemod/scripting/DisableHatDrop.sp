@@ -70,6 +70,6 @@ void RemoveHat(int client)
 		hatlessOffset = 5000;
 		
 	SetEntData(client, hatlessOffset, 0, 4, true);
-	SetEntProp(client, Prop_Data, "m_nBody", 1);
+	// SetEntProp(client, Prop_Data, "m_nBody", 1); //Set the BodyGroup player model
 	SetEntProp(client, Prop_Send, "m_nHitboxSet", 1);
 }
