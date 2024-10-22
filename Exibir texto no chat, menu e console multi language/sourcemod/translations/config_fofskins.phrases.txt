@@ -1,0 +1,132 @@
+"Phrases"
+{
+  "Title1"
+  {
+    "en"    "[ ATTENTION ]\nIF YOU HAVE ALREADY RESTARTED THE GAME\nAND ARE STILL EXPERIENCING ISSUES\nPRESS NUMBER 1 TO SEE ANOTHER SOLUTION\n( TO SEE THIS MENU AGAIN, TYPE !CONFIG IN THE CHAT )\n \n"
+
+    "pt"    "[ ATENÇÃO ]\nSE VOCÊ JÁ REINICIOU O JOGO E AINDA ESTA COM PROBLEMAS\nAPERTE O NÚMERO 1 PARA VER OUTRA SOLUÇÃO\n( PARA VER ESSE MENU NOVAMENTE DIGITE !CONFIG NO CHAT )\n \n"
+
+    "pt_p"  "[ ATENÇÃO ]\nSE VOCÊ JÁ REINICIOU O JOGO E AINDA ESTA COM PROBLEMAS\nAPERTE O NÚMERO 1 PARA VER OUTRA SOLUÇÃO\n( PARA VER ESSE MENU NOVAMENTE DIGITE !CONFIG NO CHAT )\n \n"
+
+    "es"  "[ ATENÇÃO ]\nSE VOCÊ JÁ REINICIOU O JOGO E AINDA ESTA COM PROBLEMAS\nAPERTE O NÚMERO 1 PARA VER OUTRA SOLUÇÃO\n( PARA VER ESSE MENU NOVAMENTE DIGITE !CONFIG NO CHAT )\n \n"
+  }
+
+
+    "Title2"
+  {
+    "en"    "OPEN THE CONSOLE AND TYPE THE COMMANDS BELOW ( ONE AT A TIME )\n \ncl_downloadfilter all\nfof_hide_vote_menu 0\n \nAFTER TYPING THE COMMANDS...\nRESTART THE GAME AND RECONNECT NO THIS SERVER!\n \n"
+
+    "pt"    "ABRA O CONSOLE E DIGITE OS COMANDOS ABAIXO ( UM DE CADA VEZ )\n \ncl_downloadfilter all\nfof_hide_vote_menu 0\n \nDEPOIS DE DIGITAR OS COMANDOS...\nREINICIE O JOGO E RECONECTE NOVAMENTE NESTE SERVIDOR!\n \n"
+
+    "pt_p"  "ABRA O CONSOLE E DIGITE OS COMANDOS ABAIXO ( UM DE CADA VEZ )\n \ncl_downloadfilter all\nfof_hide_vote_menu 0\n \nDEPOIS DE DIGITAR OS COMANDOS...\nREINICIE O JOGO E RECONECTE NOVAMENTE NESTE SERVIDOR!\n \n"
+
+    "es"  "ABRA O CONSOLE E DIGITE OS COMANDOS ABAIXO ( UM DE CADA VEZ )\n \ncl_downloadfilter all\nfof_hide_vote_menu 0\n \nDEPOIS DE DIGITAR OS COMANDOS...\nREINICIE O JOGO E RECONECTE NOVAMENTE NESTE SERVIDOR!\n \n"
+  }
+
+
+  "Choice 1"
+  {
+    "en"  "See another solution!\n \n"
+
+    "pt"  "Ver outra solução!\n \n"
+
+    "pt_p"  "Ver outra solução!\n \n"
+
+    "es"  "Ver outra solução!\n \n"
+  }
+
+
+  "Choice 2"
+  {
+    "en"  "Open Skins menu or type !skins in chat..."
+
+    "pt"  "Abrir menu de Skins ou digite !skins no chat..."
+
+    "pt_p"  "Abrir menu de Skins ou digite !skins no chat..."
+
+    "es"  "Abrir menu de Skins ou digite !skins no chat..."
+  }
+
+
+  "Choice 3"
+  {
+    "en"  "Open Console\n \n"
+
+    "pt"  "Abrir Console\n \n"
+
+    "pt_p"  "Abrir Console\n \n"
+
+    "es"  "Abrir Console\n \n"
+  }
+
+
+  "Choice 4"
+  {
+    "en"  "Back"
+
+    "pt"  "Voltar"
+
+    "pt_p"  "Voltar"
+
+    "es"  "Voltar"
+  }
+
+  
+  "WARNING"
+  {
+    "en"  "FFFFFF[ 00ff22NOTICE ! FFFFFF]\nfcfc03THIS SERVER HAS A SKIN MOD!\nTYPE ff8c00!SKINS fcfc03TO OPEN THE SKIN MENU\nIF YOU SEE A FF0000RED ERROR fcfc03ON THE MAP\n"
+
+    "pt"  "FFFFFF[ 00ff22AVISO ! FFFFFF]\nfcfc03ESSE SERVIDOR POSSUI MOD SKIN!\nDIGITE ff8c00!SKINS fcfc03PARA ABRIR O MENU DE SKINS\nSE VOCÊ VER FF0000RED ERROR fcfc03PELO MAPA\n"
+
+    "pt_p"  "FFFFFF[ 00ff22AVISO ! FFFFFF]\nfcfc03ESSE SERVIDOR POSSUI MOD SKIN!\nDIGITE ff8c00!SKINS fcfc03PARA ABRIR O MENU DE SKINS\nSE VOCÊ VER FF0000RED ERROR fcfc03PELO MAPA\n"
+
+    "es"  "FFFFFF[ 00ff22AVISO ! FFFFFF]\nfcfc03ESSE SERVIDOR POSSUI MOD SKIN!\nDIGITE ff8c00!SKINS fcfc03PARA ABRIR O MENU DE SKINS\nSE VOCÊ VER FF0000RED ERROR fcfc03PELO MAPA\n"
+  }
+
+
+  "WARNING2"
+  {
+    "en"  "fcfc03OR CANNOT OPEN THE SKIN MENU\nff8c00RESTART THE GAME AND RECONNECT TO THIS SERVER\nTO FIX THE PROBLEMS!"
+
+    "pt"  "fcfc03OU NÃO CONSEGUE ABRIR O MENU DE SKINS\nff8c00REINICIE O JOGO E RECONECTE-SE NESSE SERVIDOR\nPARA CORRIGIR OS PROBLEMAS!"
+
+    "pt_p"  "fcfc03OU NÃO CONSEGUE ABRIR O MENU DE SKINS\nff8c00REINICIE O JOGO E RECONECTE-SE NESSE SERVIDOR\nPARA CORRIGIR OS PROBLEMAS!"
+
+    "es"  "fcfc03OU NÃO CONSEGUE ABRIR O MENU DE SKINS\nff8c00REINICIE O JOGO E RECONECTE-SE NESSE SERVIDOR\nPARA CORRIGIR OS PROBLEMAS!"
+  }
+
+
+  "PRINTCONSOLE1"
+  {
+    "en"  "██████████████████████████████████████\n█                                    █\n█ ████  ███ ████ ███     ██   ██ ███ █\n█ █   █ █   █  █ █  █    ███ ███ █   █\n█ ████  ██  ████ █  ██   █ ███ █ ██  █\n█ █  ██ █   █  █ █  █    █  █  █ █   █\n█ █   █ ███ █  █ ███     █     █ ███ █\n█                                    █\n█      TYPE THE COMMANDS BELOW       █\n█          IN THE CONSOLE            █\n█         ( ONE AT A TIME )          █\n█                                    █\n█        cl_downloadfilter all       █\n█        fof_hide_vote_menu 0        █\n█                                    █\n█     AFTER TYPING THE COMMANDS      █\n█          RESTART THE GAME          █\n█                AND                 █"
+
+    "pt"  "██████████████████████████████████████\n█                                    █\n█ █    ████ █ ████     ██   ██ ████  █\n█ █    █    █ █  █     ███ ███ ██    █\n█ █    ███  █ ████ ███ █ ███ █ ███   █\n█ █    █    █ █  █     █  █  █ ██    █\n█ ████ ████ █ █  █     █     █ ████  █\n█                                    █\n█     DIGITE OS COMANDOS ABAIXO      █\n█             NO CONSOLE             █\n█         ( UM DE CADA VEZ )         █\n█                                    █\n█       cl_downloadfilter all        █\n█        fof_hide_vote_menu 0        █\n█                                    █\n█   DEPOIS DE DIGITAR OS COMANDOS    █\n█           REINICIE O JOGO          █\n█                 E                  █"
+
+    "pt_p"  "██████████████████████████████████████\n█                                    █\n█ █    ████ █ ████     ██   ██ ████  █\n█ █    █    █ █  █     ███ ███ ██    █\n█ █    ███  █ ████ ███ █ ███ █ ███   █\n█ █    █    █ █  █     █  █  █ ██    █\n█ ████ ████ █ █  █     █     █ ████  █\n█                                    █\n█     DIGITE OS COMANDOS ABAIXO      █\n█             NO CONSOLE             █\n█         ( UM DE CADA VEZ )         █\n█                                    █\n█       cl_downloadfilter all        █\n█        fof_hide_vote_menu 0        █\n█                                    █\n█   DEPOIS DE DIGITAR OS COMANDOS    █\n█           REINICIE O JOGO          █\n█                 E                  █"
+
+    "es"  "██████████████████████████████████████\n█                                    █\n█ █    ████ █ ████     ██   ██ ████  █\n█ █    █    █ █  █     ███ ███ ██    █\n█ █    ███  █ ████ ███ █ ███ █ ███   █\n█ █    █    █ █  █     █  █  █ ██    █\n█ ████ ████ █ █  █     █     █ ████  █\n█                                    █\n█     DIGITE OS COMANDOS ABAIXO      █\n█             NO CONSOLE             █\n█         ( UM DE CADA VEZ )         █\n█                                    █\n█       cl_downloadfilter all        █\n█        fof_hide_vote_menu 0        █\n█                                    █\n█   DEPOIS DE DIGITAR OS COMANDOS    █\n█           REINICIE O JOGO          █\n█                 E                  █"
+  }
+
+
+  "PRINTCONSOLE2"
+  {
+    "en"  "█     RECONNECT ON THIS SERVER!      █\n█                                    █\n██████████████████████████████████████\n"
+
+    "pt"  "█    RECONECTE-SE NESTE SERVIDOR!    █\n█                                    █\n██████████████████████████████████████\n"
+
+    "pt_p"  "█    RECONECTE-SE NESTE SERVIDOR!    █\n█                                    █\n██████████████████████████████████████\n"
+
+    "es"  "█    RECONECTE-SE NESTE SERVIDOR!    █\n█                                    █\n██████████████████████████████████████\n"
+  }
+  
+  "no access"
+  {
+    "en" "FFFFFF[ 00ff22NOTICE ! FFFFFF]\nfcfc03Only administrators can use this skin!"
+
+    "pt"  "FFFFFF[ 00ff22AVISO ! FFFFFF]\nfcfc03Apenas administradores podem usar essa Skin!"
+
+    "pt_p"  "FFFFFF[ 00ff22AVISO ! FFFFFF]\nfcfc03Apenas administradores podem usar essa Skin!"
+
+    "es"  "FFFFFF[ 00ff22AVISO ! FFFFFF]\nfcfc03Apenas administradores podem usar essa Skin!"
+  }
+}
